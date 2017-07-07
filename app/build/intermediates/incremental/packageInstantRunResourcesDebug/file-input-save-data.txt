@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Fri Feb 24 13:07:06 CST 2017
+2.base=/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v11/icon.png
+5.set=ANDROID_RESOURCE
+3.base=/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+2.set=ANDROID_RESOURCE
+4.base=/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/res/resources-debug.ap_/res/layout-large-v4/main.xml
+5.base=/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/res/resources-debug.ap_/res/layout-land/main.xml
+1.set=ANDROID_RESOURCE
+7.base=/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/res/resources-debug.ap_/res/layout-large-land-v4/main.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+0.set=ANDROID_RESOURCE

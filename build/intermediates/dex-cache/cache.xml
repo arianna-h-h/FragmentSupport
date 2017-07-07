@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_21e00642c991efb421a751b7859cd39ffa6c56ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="54aad4a772f105e37d0753a9fc03f58869a1679c">
+        <dex dex="/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_44073afd6b7a150f5e5eea78489f6e4598322b8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_aa43218c82808b28e3d839702bc648a0eac33b35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_12dfc730d06e7281e2434187a84d5e4abbd3f4c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_c36829c850e2c6f67254231a32bdea25ae78394f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ariannaharadon/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_4f838e124ad1113787662f90e76942e24819a393/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_2d631ab4011dd06c58c9dac17957c047e3a45587/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_9be7042998978c4f90ecda52ebec236cdbcc3d0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="312054cbf24e3f1ebe2375f97f3cb4f652ed0946">
+        <dex dex="/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4a56f584bba00d7ac0e16c778e56eed12b9b8bf7/classes.dex" />
+    </item>
+
+</items>

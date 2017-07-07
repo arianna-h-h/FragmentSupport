@@ -1,0 +1,7 @@
+#Fri Feb 24 13:07:24 CST 2017
+base.0=/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4a56f584bba00d7ac0e16c778e56eed12b9b8bf7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_44073afd6b7a150f5e5eea78489f6e4598322b8f/classes.dex
+base.1=/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_44073afd6b7a150f5e5eea78489f6e4598322b8f
+file.0=/Users/ariannaharadon/AndroidStudioProjects/FragmentSupport/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4a56f584bba00d7ac0e16c778e56eed12b9b8bf7/classes.dex
